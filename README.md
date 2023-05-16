@@ -4,4 +4,4 @@ This investigation shows that [Fandango](https://fandango.com), one of the large
 
 [See the analysis here](Fandango_Movie_Rating_Inflation.ipynb)
 
-![fandango_inflation_intro.png](attachment:fandango_inflation_intro.png)
+![Fandango slightly inflated movie ratings in 2015](fandango_inflation_intro.png)
