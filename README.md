@@ -4,7 +4,7 @@ This investigation shows that [Fandango](https://fandango.com), one of the large
 
 An additional analysis shows that Fandango seemed to have fixed their ratings for subsequent movies released in 2016-2017.
 
-[**See the analysis here**](Fandango_Movie_Rating_Inflation.ipynb) (Jupyter Notebook on GitHub)
+#### [See the analysis here](Fandango_Movie_Rating_Inflation.ipynb) (Python Notebook)
 
 ![Fandango slightly inflated movie ratings in 2015](fandango_inflation_intro.png)
 
